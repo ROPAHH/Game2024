@@ -303,7 +303,7 @@ footer .next_btn{
 }
 
 .result_box .score_text{
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 600;
     margin-bottom: 20px;
     text-align: center;
@@ -312,7 +312,7 @@ footer .next_btn{
 .result_box .score_text span{
     display: flex;
     margin: 10px 0;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 600;
     align-items: center;
     color: red;
@@ -331,7 +331,7 @@ footer .next_btn{
 .result_box .buttons{
     display: flex;
     margin: 30px 0;
-    gap: 200px;
+    gap: 150px;
 }
 
 .result_box .buttons .button{
